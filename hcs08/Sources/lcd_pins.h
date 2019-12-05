@@ -1,0 +1,1 @@
+/media/datos/compartida/codewarrior/lib_lcd/lcd_pins.h
